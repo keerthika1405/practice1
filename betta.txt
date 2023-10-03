@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 betta new branch file
 number 4
+=======
+betta new branch file
+>>>>>>> c17c8e4 (betta data)
