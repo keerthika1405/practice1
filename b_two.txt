@@ -1,6 +1,1 @@
-b_two
-changes i made
-again changed
-this is for notes
-git notes
-again note changed
+new changes on b_two
